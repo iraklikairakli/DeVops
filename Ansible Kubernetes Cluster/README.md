@@ -1,9 +1,6 @@
 # Ansible Kubernetes 
 ## How to run Kubernetes with ansible
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 1. Change Host file ( add worker and node ip )
 2. Create Ansible play-book
